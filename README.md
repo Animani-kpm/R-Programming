@@ -1,3 +1,3 @@
 # R-Programming
 
-I am hear to learn R programming
+I am here to learn R programming
